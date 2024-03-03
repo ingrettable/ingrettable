@@ -7,7 +7,7 @@ SWE and Student
 - 👩‍💻 Incoming SWE at JP Morgan Chase
 - 📚 Teaching Assistant for Introduction to Object Oriented Programming (Spring 2024)
 - 🗃️ Student Technician at SBU Division of IT
-- 🩵 Interested in computational geometry, numerical analysis, cloud computing and reading.
+- 🩵 Interested in computational geometry, numerical analysis, and cloud computing.
 
 ## Graphs
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ingrettable&langs_count=8&hide=html&layout=compact)
