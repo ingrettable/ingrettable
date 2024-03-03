@@ -4,7 +4,6 @@ SWE and Student
 ## About Me
 - 😊 she/her
 - 🎓 BS in CS and AMS at SBU '24
-- 👩‍💻 Incoming SWE at JP Morgan Chase
 - 📚 Teaching Assistant for Introduction to Object Oriented Programming (Spring 2024)
 - 🗃️ Student Technician at SBU Division of IT
 - 🩵 Interested in computational geometry, numerical analysis, and cloud computing.
