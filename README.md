@@ -1,4 +1,6 @@
 # Hello! I'm Gretta Halollari
+
+## About Me
 - 😊 she/her
 - 🎓 BS in CS and CS at SBU '24
 - 👩‍💻 Incoming SWE at JP Morgan Chase
