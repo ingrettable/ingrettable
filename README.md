@@ -1,11 +1,10 @@
 # Hello! I'm Gretta Halollari
+- 😊 she/her
 - 🎓 BS in CS and CS at SBU '24
 - 👩‍💻 Incoming SWE at JP Morgan Chase
-- 📚 Teaching Assistant for Introduction to Object Oriented Programming (Spring 2024) and Calculus II (Fall 2022)
+- 📚 Teaching Assistant for Introduction to Object Oriented Programming (Spring 2024)
 - 🗃️ Student Technician at SBU Division of IT
-
-## Summary 
-Computer Science and Applied Mathematics and Statistics Student interested in backend development, computational geometry and numerical analysis.
+- 🩵 Interested in computational geometry, numerical analysis, cloud computing and reading.
 
 ## Graphs
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ingrettable&langs_count=8&hide=html&layout=compact)
