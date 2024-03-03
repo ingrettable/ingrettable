@@ -6,7 +6,7 @@ I'm Gretta Halollari.
 - 🎓 BS in Computer Science and Applied Mathematics and Statistics at SBU '24
 - 📚 Teaching Assistant for Introduction to Object Oriented Programming (Spring 2024) and Calculus II (Fall 2022)
 - 🗃️ Student Technician at SBU Division of IT
-- 🩵 Interested in computational geometry, numerical analysis, and cloud computing.
+- 🩵 Interested in computational geometry, numerical analysis, and computing for good.
 
 ## Graphs
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ingrettable&langs_count=8&hide=html&layout=compact)
