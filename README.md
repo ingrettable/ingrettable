@@ -1,5 +1,5 @@
-# Hello! I'm Gretta Halollari
-SWE and Student 
+# Hello! 
+I'm Gretta Halollari.
 
 ## About Me
 - 😊 she/her
