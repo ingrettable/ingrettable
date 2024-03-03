@@ -2,10 +2,10 @@
 • SWE
 • SBU '24
 
-##Summary 
+## Summary 
 Computer Science and Applied Mathematics and Statistics Student interested in backend development, computational geometry and data analysis.
 
-##Graphs
+## Graphs
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ingrettable&langs_count=8&hide=html&layout=compact)
 
 <!--
