@@ -3,8 +3,8 @@ I'm Gretta Halollari.
 
 ## About Me
 - 😊 she/her
-- 🎓 BS in CS and AMS at SBU '24
-- 📚 Teaching Assistant for Introduction to Object Oriented Programming (Spring 2024)
+- 🎓 BS in Computer Science and Applied Mathematics and Statistics at SBU '24
+- 📚 Teaching Assistant for Introduction to Object Oriented Programming (Spring 2024) and Calculus II (Fall 2022)
 - 🗃️ Student Technician at SBU Division of IT
 - 🩵 Interested in computational geometry, numerical analysis, and cloud computing.
 
