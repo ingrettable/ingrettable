@@ -1,6 +1,8 @@
-# Gretta Halollari
-- SBU '24
-- SWE
+# Hello! I'm Gretta Halollari
+- 🎓 BS in CS and CS at SBU '24
+- 👩‍💻 Incoming SWE at JP Morgan Chase
+- 📚 Teaching Assistant for Introduction to Object Oriented Programming (Spring 2024) and Calculus II (Fall 2022)
+- 🗃️ Student Technician at SBU Division of IT
 
 ## Summary 
 Computer Science and Applied Mathematics and Statistics Student interested in backend development, computational geometry and numerical analysis.
