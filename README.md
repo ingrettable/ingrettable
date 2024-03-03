@@ -1,4 +1,4 @@
-### Gretta Halollari
+# Gretta Halollari
 - SBU '24
 - SWE
 
