@@ -1,6 +1,6 @@
 ### Gretta Halollari
-• SWE
-• SBU '24
+- SBU '24
+- SWE
 
 ## Summary 
 Computer Science and Applied Mathematics and Statistics Student interested in backend development, computational geometry and data analysis.
